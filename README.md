@@ -1,10 +1,10 @@
-#graphql-in-aspnetcore
-#基于GraphQL with ASP.NET构建
+graphql-in-aspnetcore
+# 基于GraphQL with ASP.NET构建
 地址：http://fiyazhasan.me/graphql-with-asp-net-core/
 
-#基于asp.net core，从0开始构建graphql示例
+# 基于asp.net core，从0开始构建graphql示例
 
-##第一部分：Hello World
+## 第一部分：Hello World
 
 mkdir asp_graphql
 cd asp_graphql
